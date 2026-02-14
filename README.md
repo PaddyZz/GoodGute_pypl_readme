@@ -1,5 +1,4 @@
-![logo](https://raw.githubusercontent.com/PaddyZz/GoodGute_pypl_readme/main/goodguteLogo.svg)# GoodGute_pypl_readme
-GoodGute_pypl_readme
+
 
 
 <h1>
@@ -9,3 +8,7 @@ GoodGute_pypl_readme
        style="vertical-align: middle; margin-right: 10px;">
   GoodGute
 </h1>
+
+GoodGute - AI-powered EN→DE translator
+- App Website: [https://www.goodgute.app/](https://www.goodgute.app/)
+- Dev Website: [https://www.goodgute.dev/](https://www.goodgute.dev/)
